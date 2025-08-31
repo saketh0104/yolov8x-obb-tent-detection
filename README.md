@@ -22,23 +22,6 @@ This project focuses on detecting **unauthorized encampments** in satellite imag
 
 ---
 
-## 📂 Project Structure
-```
-
-Unauthorized-Encampment-Detection/
-│── data/                 # Dataset (images + labels)
-│── notebooks/            # Training & evaluation notebooks
-│── src/                  # Model scripts
-│   ├── train.py          # Training pipeline
-│   ├── detect.py         # Inference script
-│   └── utils.py          # Helper functions
-│── outputs/              # Predictions & results
-│── requirements.txt      # Dependencies
-│── README.md             # Project documentation
-
-```
----
-
 ## 📊 Results
 
 * **Precision**: XX%
